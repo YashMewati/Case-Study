@@ -1,4 +1,4 @@
-# UnU - Cancer Care Application Case Study
+# 1) UnU - Cancer Care Application Case Study
 ## Figma Link -
 https://www.figma.com/file/8CP097Y3b1RlncpcullW3u/UnU---Cancer-Care-Application-Case-Study---Yash-Mewati?node-id=0%3A1&t=UCDa0QueOJLjmVL8-1
 
@@ -7,7 +7,7 @@ https://www.figma.com/file/8CP097Y3b1RlncpcullW3u/UnU---Cancer-Care-Application-
 
 
 
-# “Need an system or platform to keep a track of many things on a day to day basis for Student.”
+# 2) “Need an system or platform to keep a track of many things on a day to day basis for Student.”
 ## Figma Link -
 https://www.figma.com/file/L7csd2CbNrqTu5xnxVqPvc/Nimbbl-Assignment---Yash-Mewati?node-id=0%3A1&t=PKwCMd9Wct0JHDqv-1
 
